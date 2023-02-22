@@ -1,2 +1,2 @@
-tabs: ['script.py']
+tabs: ['script.py','main.py']
 run-button: python3 $$file
